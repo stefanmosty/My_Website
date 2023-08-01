@@ -78,7 +78,7 @@ with st.container():
         st.image(trihelix_pic)
     image_column, text_column = st.columns((1,2))
     with text_column:
-        st.subheader("Pairs Trading Bot")
+        st.subheader("Other Bot")
 
 # --- What I DO OUTSIDE THE CLASSROOM ---
 with st.container():
